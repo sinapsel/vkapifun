@@ -1,0 +1,3 @@
+python s.py
+
+pause
